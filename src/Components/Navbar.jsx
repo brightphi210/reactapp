@@ -14,7 +14,7 @@ const Navbar = () => {
 
 
   return (
-    <div className='flex justify-between bg-white border-b border-neutral-200 px-[15rem] py-[20px]'>
+    <div className='flex justify-between z-40 bg-white border-b border-neutral-200 px-[15rem] py-[20px]'>
       <div>
         <img src={logo} alt="" />
       </div>
